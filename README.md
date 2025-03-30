@@ -1,6 +1,9 @@
 ### Typora-Free-Version-History
 Typora历史免费版本，只下载了Windows和Linux版本，没有的版本是官网没有下载链接，0.9.98往前官网不放下载链接了。
+
 下载链接：https://typora.io/windows/dev_release.html
+
+**0.11.18**是最后一个免费版本，安装后设置注册表为完全拒绝就可以打开软件了，也可以直接下载Typora.bat，右键管理员运行自动设置。
 
 ### 0.11.18
 1. Add warnings when user try to edit file from backup location.
